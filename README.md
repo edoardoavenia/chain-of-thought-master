@@ -1,30 +1,32 @@
-# Chain of Thought Master
-
+# 🧠 Chain of Thought Master
 <div align="center">
-  <a href="https://github.com/edoardoavenia">
-    <img src="https://img.shields.io/badge/Developer-Edoardo_Avenia-2ea44f?style=for-the-badge&logo=github" alt="Developer">
+  <a href="https://chatgpt.com/g/g-s9B4PVDEP-chain-of-thought-master">
+    <img src="https://img.shields.io/badge/TRY_THIS_GPT-37a779?style=for-the-badge&logo=openai&logoWidth=20" alt="Try Chain of Thought Master" width="200">
   </a>
-  <a href="https://chat.openai.com">
-    <img src="https://img.shields.io/badge/Platform-ChatGPT-74aa9c?style=for-the-badge&logo=openai" alt="Platform">
+  <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">
+    <img src="https://img.shields.io/badge/VIEW_ALL_MY_GPTs-4f46e5?style=for-the-badge&logo=github&logoWidth=20" alt="GPTs Collection" width="250">
   </a>
 </div>
 
-## Version
+## 🤖 About This GPT
+An advanced AI assistant specialized in Chain of Thought (CoT) reasoning and critical analysis. This tool excels at breaking down complex problems into manageable steps, guiding users through structured solutions using connected, logical thinking processes. Perfect for tackling challenging problems that require systematic analysis and clear reasoning.
+
+## 🔗 Direct Links
+- 🎯 [Try Chain of Thought Master GPT](https://chatgpt.com/g/g-s9B4PVDEP-chain-of-thought-master)
+- 📚 [View All My GPTs Collection](https://github.com/edoardoavenia/edoardo-avenia-gpt-collection)
+- 💡 [View Full Prompt](./PROMPT.md)
+
+## 📖 Documentation
+The complete prompt for this GPT is available in this repository:
+
+## 👨‍💻 Author & Links
+- Created by [Edoardo Avenia](https://github.com/edoardoavenia)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/v2.0-Latest-green?style=for-the-badge&logo=v" alt="Version">
-  <img src="https://img.shields.io/badge/EN-language-blue?style=for-the-badge" alt="Language">
+  <img src="https://img.shields.io/badge/Version-2.0-2ea44f?style=for-the-badge" alt="Version">
 </div>
 
-## Overview
-Detailed description of Chain of Thought Master capabilities and features.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Usage
-Instructions on how to use this GPT effectively.
-
-## License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+<div align="center">
+  <h3>Part of <a href="https://github.com/edoardoavenia/edoardo-avenia-gpt-collection">Edoardo Avenia's GPTs Collection</a></h3>
+</div>
