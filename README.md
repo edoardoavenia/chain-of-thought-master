@@ -16,9 +16,6 @@ An advanced AI assistant specialized in Chain of Thought (CoT) reasoning and cri
 - 📚 [View All My GPTs Collection](https://github.com/edoardoavenia/edoardo-avenia-gpt-collection)
 - 💡 [View Full Prompt](./PROMPT.md)
 
-## 📖 Documentation
-The complete prompt for this GPT is available in this repository:
-
 ## 👨‍💻 Author & Links
 - Created by [Edoardo Avenia](https://github.com/edoardoavenia)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/edoardoavenia/)
